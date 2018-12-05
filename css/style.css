@@ -55,7 +55,7 @@ a {
 a:hover, a:active, a:focus {
   color: #429bb3;
   outline: none;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 p {
