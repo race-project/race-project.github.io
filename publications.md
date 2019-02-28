@@ -18,7 +18,7 @@ layout: default
                                 A. Brinckman, E. Deelman, S. Gupta, J. Nabrzyski, S. Park, R. Ferreira da Silva, 
                                 I. J. Taylor, and K. Vahi, "<a href="https://doi.org/10.1016/j.future.2018.01.018"
                                 target="_blank">Collaborative Circuit Designs using the CRAFT Repository</a>," 
-                                Future Generation Computer Systems, vol. in press, 2018.
+                                Future Generation Computer Systems, vol. 94, p. 841–853, 2019.
                             </li>
                             <li>
                                 I. J. Taylor, A. Brinckman, E. Deelman, R. Ferreira da Silva, S. Gupta, J. Nabrzyski, 
